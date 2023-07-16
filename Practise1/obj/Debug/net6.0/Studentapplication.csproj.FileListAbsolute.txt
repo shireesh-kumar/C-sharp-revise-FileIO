@@ -1,0 +1,15 @@
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.csproj.AssemblyReference.cache
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.AssemblyInfoInputs.cache
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.AssemblyInfo.cs
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.csproj.CoreCompileInputs.cache
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\bin\Debug\net6.0\Studentapplication.exe
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\bin\Debug\net6.0\Studentapplication.deps.json
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\bin\Debug\net6.0\Studentapplication.runtimeconfig.json
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\bin\Debug\net6.0\Studentapplication.dll
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\bin\Debug\net6.0\Studentapplication.pdb
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.dll
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\refint\Studentapplication.dll
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.pdb
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\Studentapplication.genruntimeconfig.cache
+E:\Programming and Tech Practices\C sharp Practices\Practise1\Practise1\obj\Debug\net6.0\ref\Studentapplication.dll
